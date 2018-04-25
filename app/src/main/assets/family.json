@@ -1,0 +1,25 @@
+[
+	{"name":"Ông ngoại","level":1,"id":100,"parent":0,"family":100},
+	{"name":"Bà Ngoại","level":1,"id":101,"parent":0,"family":100},
+	{"name":"Chú Bác","level":2,"id":102,"parent":100,"family":0},
+	{"name":"Mẹ","level":2,"id":103,"parent":100,"family":202},
+	{"name":"Ông nội","level":1,"id":200,"parent":0,"family":200},
+	{"name":"Bà nội","level":1,"id":201,"parent":0,"family":200},
+	{"name":"Bố","level":2,"id":202,"parent":200,"family":202},
+	{"name":"Anh Em","level":3,"id":203,"parent":202,"family":203},
+	{"name":"Cháu gái","level":4,"id":2030,"parent":203,"family":0},
+	{"name":"Chị Em","level":3,"id":204,"parent":202,"family":204},
+	{"name":"Cháu trai","level":4,"id":2040,"parent":204,"family":0},
+	{"name":"Cháu gái","level":4,"id":2041,"parent":204,"family":0},
+	{"name":"Bạn","level":3,"id":205,"parent":202,"family":300},
+	{"name":"Chồng","level":3,"id":300,"parent":0,"family":300},
+	{"name":"Con gái","level":4,"id":301,"parent":300,"family":301},
+	{"name":"Con trai","level":4,"id":303,"parent":300,"family":0},
+	{"name":"Cháu","level":5,"id":3010,"parent":301,"family":0},
+	{"name":"Con gái","level":4,"id":302,"parent":300,"family":302},
+	{"name":"Cháu","level":5,"id":3020,"parent":302,"family":0},
+	{"name":"Cháu","level":5,"id":3021,"parent":302,"family":0}
+]
+
+
+
